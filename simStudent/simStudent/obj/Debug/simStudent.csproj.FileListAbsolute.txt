@@ -1,0 +1,7 @@
+C:\Users\pagem\source\repos\simStudent\simStudent\bin\Debug\simStudent.exe.config
+C:\Users\pagem\source\repos\simStudent\simStudent\bin\Debug\simStudent.exe
+C:\Users\pagem\source\repos\simStudent\simStudent\bin\Debug\simStudent.pdb
+C:\Users\pagem\source\repos\simStudent\simStudent\obj\Debug\simStudent.csproj.AssemblyReference.cache
+C:\Users\pagem\source\repos\simStudent\simStudent\obj\Debug\simStudent.csproj.CoreCompileInputs.cache
+C:\Users\pagem\source\repos\simStudent\simStudent\obj\Debug\simStudent.exe
+C:\Users\pagem\source\repos\simStudent\simStudent\obj\Debug\simStudent.pdb
